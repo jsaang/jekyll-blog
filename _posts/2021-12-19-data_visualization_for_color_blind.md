@@ -109,7 +109,7 @@ _[Color Blind Friendly Palette 1](https://coolors.co/ffbe86-ffe156-ffe9ce-ffb5c2
 <br />
 
 ![](/assets/posts/data_visualization_for_color_blind/fig_6.png)
-_[Color Blind Friendly Palette 1](https://coolors.co/4059ad-6b9ac4-97d8c4-eff2f1-f4b942)_
+_[Color Blind Friendly Palette 2](https://coolors.co/4059ad-6b9ac4-97d8c4-eff2f1-f4b942)_
 
 <br />
 
